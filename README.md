@@ -1,4 +1,4 @@
-# Blazor DataGrid — Batch Editing Sample
+# Blazor DataGrid — Batch Editing
 
 This sample shows that how to enable the batch edit mode in [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component.
 
