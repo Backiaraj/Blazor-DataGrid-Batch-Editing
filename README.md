@@ -1,34 +1,44 @@
-# Blazor Server DataGrid - Batch Editing
+# Blazor DataGrid — Batch Editing Sample
 
-This sample shows that how to enable the batch edit mode in Blazor DataGrid.
+This sample shows that how to enable the batch edit mode in [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component.
 
-## Features
+## Overview
 
-* Fast rendering with virtualization and row/column virtualization
-* Sorting, filtering, grouping, and searching capabilities
-* Inline, batch, and dialog editing modes
-* Template columns, column resizing, reordering, and freezing
-* Excel and PDF export (requires additional Syncfusion export packages)
+- **Batch editing with toolbar actions**: Add, Delete, Update, Cancel
+- **Column editors**: text, numeric, date picker, and dropdown
+- **Validation**: Validation for required fields and primary keys
+- **Paging**: Paging enabled for larger datasets
 
 ## Prerequisites
 
-* Visual Studio 2022 or later
-* Visual Studio Code
-* .NET SDK 8.0 or later
+- [.NET SDK 7.0 ](https://dotnet.microsoft.com/download/dotnet/7.0) or later
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-## How to run the project
+## Getting Started
 
-1. Clone or download this repository to a location in your system.
-2. Open the solution file using the Visual Studio or Visual Studio code.
-3. Restore the NuGet packages by rebuilding the solution or run `dotnet restore`.
-4. Build the project to ensure there are no compilation errors.
-5. Run the project.
+### Clone the repository
 
-Optional CLI Commands:
+```bash
+git clone https://github.com/SyncfusionExamples/Blazor-DataGrid-Batch-Editing.git
+cd Blazor-DataGrid-Batch-Editing
+```
 
-```powershell
+### Run with Visual Studio
+
+1. Open the solution file using Visual Studio 2022 or later.
+2. Restore the NuGet packages by rebuilding the solution.
+3. Build the project to ensure there are no compilation errors.
+4. Run the project.
+
+### Run with .NET CLI
+
+```bash
+# Restore dependencies
 dotnet restore
-dotnet build
+
+# Run the project
+dotnet run
 ```
 
 ## References
