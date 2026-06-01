@@ -11,7 +11,7 @@ This sample shows that how to enable the batch edit mode in [Blazor DataGrid](ht
 
 ## Prerequisites
 
-- [.NET SDK 9.0 ](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) or later
+- [.NET SDK 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) or later
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
 - [Visual Studio Code](https://code.visualstudio.com/)
 
